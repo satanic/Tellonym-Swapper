@@ -1,5 +1,5 @@
 # Tellonym-Swap
-Simple Tellonym Swap
+Simple Tellonym Swap (Beta V0.3)
 ![alt text](https://github.com/Soud69/NewEggSniper/blob/main/image.png?raw=true)
 # Credit
 
